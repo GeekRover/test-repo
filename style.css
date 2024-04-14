@@ -1,0 +1,53 @@
+html{
+    background-color:#EAEAEA;
+}
+
+body{
+    margin: 50px 50px 0px 50px;
+    font-family: "poppins",cursive;
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+
+#span{
+    color: #FF2E63;
+}
+.gg{
+    color: #08D9D6;
+}
+
+.pic{
+    border-radius: 50%;
+    border: 5px solid #252A34;
+    height: 300px;
+    width: 300px;
+    margin-right: 50px;
+}
+
+.main{
+    display: inline-block;
+}
+.o{
+    color: #FC5185;
+}
+p{
+    font-weight: 600;
+}
+
+footer{
+    font-family: "Jacquard 24", 'Times New Roman', Times, serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+.card{
+    width: 45%;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
